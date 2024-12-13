@@ -18,3 +18,6 @@ The steps included:
 
 ## Relevant Outputs/Visualizations
 
+These tables calculated and displayed the regular season totals for Passing Yards and Rushing Yards of the 8 teams I chose to analyze for both 2022 and 2023. This allowed me to understand and interpret what kind of offensive of approach team each took and how it might have changed from one season to the next.
+
+<img width="575" alt="Screenshot 2024-12-13 at 2 39 59 PM" src="https://github.com/user-attachments/assets/05ed4ac4-3989-4dc9-b400-c2755ea9b8cd" />
