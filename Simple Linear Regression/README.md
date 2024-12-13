@@ -10,3 +10,8 @@ I learned about using DataFrames in my EDA to help structure and organize the sp
 
 ## Relevant Outputs/Visualizations
 
+<ins>Scatterplot</ins>
+<img width="663" alt="Screenshot 2024-12-13 at 3 19 43 PM" src="https://github.com/user-attachments/assets/979155aa-6040-441b-8320-bcf897adcf0a" />
+
+<ins>Simple Linear Regression</ins>
+<img width="657" alt="Screenshot 2024-12-13 at 3 20 05 PM" src="https://github.com/user-attachments/assets/73c0934e-43bf-4768-8ce9-2a60b7355267" />
